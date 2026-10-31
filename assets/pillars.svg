@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#061529" />
+      <stop offset="100%" stop-color="#091f3a" />
+    </linearGradient>
+    <linearGradient id="blueAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1261d6" />
+      <stop offset="100%" stop-color="#4295ff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: Front-End & UI/UX -->
+  <g transform="translate(0, 5)">
+    <rect x="0" y="0" width="384" height="175" rx="14" fill="url(#cardBg)" stroke="#1e3a5f" stroke-width="1.5" />
+    <rect x="0" y="0" width="384" height="5" rx="2.5" fill="url(#blueAccent)" />
+    <text x="26" y="42" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#4295ff">01 // FRONT-END &amp; UI/UX</text>
+    <text x="26" y="74" font-family="'Segoe UI', Inter, sans-serif" font-size="19" font-weight="700" fill="#ffffff">Interfaces Modernas &amp; Responsivas</text>
+    <text x="26" y="104" font-family="'Segoe UI', Inter, sans-serif" font-size="13.5" fill="#94a3b8">HTML5 Semântico, CSS3 Grid/Flexbox,</text>
+    <text x="26" y="125" font-family="'Segoe UI', Inter, sans-serif" font-size="13.5" fill="#94a3b8">JavaScript (ES6+), React e prototipação</text>
+    <text x="26" y="146" font-family="'Segoe UI', Inter, sans-serif" font-size="13.5" fill="#94a3b8">orientada à experiência do usuário no Figma.</text>
+  </g>
+
+  <!-- Card 2: Back-End, Dados & IoT -->
+  <g transform="translate(408, 5)">
+    <rect x="0" y="0" width="384" height="175" rx="14" fill="url(#cardBg)" stroke="#1e3a5f" stroke-width="1.5" />
+    <rect x="0" y="0" width="384" height="5" rx="2.5" fill="url(#blueAccent)" />
+    <text x="26" y="42" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#4295ff">02 // BACK-END, DADOS &amp; IOT</text>
+    <text x="26" y="74" font-family="'Segoe UI', Inter, sans-serif" font-size="19" font-weight="700" fill="#ffffff">Sistemas Web &amp; Integrações</text>
+    <text x="26" y="104" font-family="'Segoe UI', Inter, sans-serif" font-size="13.5" fill="#94a3b8">Lógica de negócio, Python, modelagem</text>
+    <text x="26" y="125" font-family="'Segoe UI', Inter, sans-serif" font-size="13.5" fill="#94a3b8">relacional com PostgreSQL e projetos de</text>
+    <text x="26" y="146" font-family="'Segoe UI', Inter, sans-serif" font-size="13.5" fill="#94a3b8">Sistemas Embarcados / IoT (C++ &amp; ESP32).</text>
+  </g>
+
+  <!-- Card 3: Soft Skills & Metodologias -->
+  <g transform="translate(816, 5)">
+    <rect x="0" y="0" width="384" height="175" rx="14" fill="url(#cardBg)" stroke="#1e3a5f" stroke-width="1.5" />
+    <rect x="0" y="0" width="384" height="5" rx="2.5" fill="url(#blueAccent)" />
+    <text x="26" y="42" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" font-weight="700" fill="#4295ff">03 // CULTURA ÁGIL &amp; COMUNICAÇÃO</text>
+    <text x="26" y="74" font-family="'Segoe UI', Inter, sans-serif" font-size="19" font-weight="700" fill="#ffffff">Colaboração &amp; Entrega de Valor</text>
+    <text x="26" y="104" font-family="'Segoe UI', Inter, sans-serif" font-size="13.5" fill="#94a3b8">Vivência prévia em docência trazendo</text>
+    <text x="26" y="125" font-family="'Segoe UI', Inter, sans-serif" font-size="13.5" fill="#94a3b8">comunicação assertiva, organização por</text>
+    <text x="26" y="146" font-family="'Segoe UI', Inter, sans-serif" font-size="13.5" fill="#94a3b8">Sprints, resolução de problemas e liderança.</text>
+  </g>
+</svg>
