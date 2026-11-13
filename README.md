@@ -3,8 +3,7 @@
 ### Olá, eu sou o Italo Holanda 👋
 **Desenvolvedor Web Full-Stack | UI/UX | Análise e Desenvolvimento de Sistemas**
 
-Desenvolvo projetos digitais com foco em interfaces modernas, sistemas web e experiência do usuário (UX).  
-📍 Manaus, AM · 🎓 ADS (Senac Amazonas) · 💻 Dev Web (IDESAM)
+Desenvolvo projetos digitais com foco em interfaces modernas, sistemas web e experiência do usuário
 
 [![Portfólio](https://img.shields.io/badge/🌐_Portfólio_Oficial-1261d6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-italo-murex.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-holanda/)
