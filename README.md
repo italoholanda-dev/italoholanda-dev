@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Olá, eu sou o Italo Holanda 👋
-**Desenvolvedor Web Full-Stack | UI/UX | Análise e Desenvolvimento de Sistemas**
+**Desenvolvedor Web Full-Stack | UI/UX |**
 
 Desenvolvo projetos digitais com foco em interfaces modernas, sistemas web e experiência do usuário
 
